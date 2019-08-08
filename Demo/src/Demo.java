@@ -6,7 +6,8 @@ public class Demo {
 		
 
 		for(int i=0;i<11;i++){
-			System.out.println(i+i+i);
+			System.out.println(i+i+i+i);
+			System.out.println(10-i);
 		}
 
 	}
